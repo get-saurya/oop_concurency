@@ -16,7 +16,6 @@ public class Student {
 //     }
 //     //validations end
 
-
      this.name = builder.getName();
      this.age = builder.getAge();
      this.psp = builder.getAge();
